@@ -1,8 +1,8 @@
-## Steganography-Web-App 
+# Steganography-Web-App 
 
 The Steganography Web App is a tool designed to securely hide and extract information within digital images through the use of steganography techniques. This web-based application allows users to embed text or files within images, providing a way to transmit sensitive information covertly.
 
-##Key Features:
+# Key Features:
 
 Image Upload: Users can upload images in various formats (JPEG, PNG) to be used for steganographic encoding.
 Text Encoding: Embed confidential text within an image while preserving the image's original quality.
@@ -12,7 +12,7 @@ Security Measures: Implements robust encryption algorithms to ensure the securit
 User Interface: Intuitive and user-friendly interface for easy navigation and functionality.
 
 
-#Technologies Used:
+# Technologies Used:
 
 Frontend: HTML, CSS, JavaScript
 Backend: Node.js, Express
