@@ -36,4 +36,21 @@ AES (Advanced Encryption Standard)
 
 # How To Run
 
+Clone the Repository:
+
+## Run the following command :
+
+git clone https://github.com/username/repository.git
+
+## Change directory to the cloned repository:
+
+cd repository
+
+## Start the Web Server: 
+
+python -m http.server
+
+## Run the following command to start In a web browser, navigate to:
+
+http://localhost:8000 (or http://127.0.0.1:8000)
 
