@@ -40,11 +40,11 @@ Clone the Repository:
 
 ## Run the following command :
 
-git clone https://github.com/username/repository.git
+git clone https://github.com/kirankumarrout/Steganography-Web-App.git
 
 ## Change directory to the cloned repository:
 
-cd repository
+cd Steganography-Web-App
 
 ## Start the Web Server: 
 
